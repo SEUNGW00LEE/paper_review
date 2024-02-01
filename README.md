@@ -15,7 +15,7 @@
 
 ## detail :cyclone:
 
-- **논문에 대한 자세한 review는 [여기](https://seungw00lee.github.io/)에서 확인 가능합니다.**
+- **논문에 대한 자세한 review는 [개인 기술블로그](https://seungw00lee.github.io/)에서 확인 가능합니다.**
 
 ## calender :date:
 
